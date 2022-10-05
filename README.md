@@ -31,6 +31,10 @@ Start the server
 
 ```bash
   npm run start
+<<<<<<< HEAD
 ```
 ##button1
 background-color: #fc2903;
+=======
+```
+>>>>>>> 8e0d7b9bbad514f7fc0193ddcf893f5df9662f42
