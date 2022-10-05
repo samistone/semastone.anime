@@ -1,4 +1,26 @@
+html, body{
+    height: 100%;
+    width: 100%;
+    padding: 0%;
+    margin: 0%;
+}
+
 .landing-image {
-  height: 100px;
-  width: 100px;
+  display: block;
+  height: 80vh;
+  width: 40vw;
+  margin-left: auto;
+}
+
+.navbar {
+  display: flex;
+}
+
+li {
+  display: inline-block;
+  margin: 10px;
+}
+
+.left {
+  margin-left: auto;
 }
